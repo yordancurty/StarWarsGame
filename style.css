@@ -1,0 +1,34 @@
+body{
+    background-image: url(./MIDIA/IMAGENS/space\ background.gif);
+}
+
+.canvas {
+    border: 2px solid red;
+}
+
+.BAndTitle{
+    position: absolute;
+    left: 450px;
+    top: 300px
+
+}
+
+#logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.theButton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#start-button{
+    border: 3px solid #E1B234;
+    background-color: rgba(0,0,0,0);
+    color: #DCAE33;
+}
